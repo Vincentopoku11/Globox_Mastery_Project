@@ -1,6 +1,9 @@
 # vincent_opoku_portfolio
 
-# DA106 GloBox Mastery Project by Masterschool
+# DA106 GloBox Mastery Project by Masterschool[link
+](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/e8b908322a0e1e65c71b2ef56ba9248b1c27d1bb/Globox%20%20Mastery%20Project%20.zip)
+
+
 ###### Created  on September 5th, 2023
 # Metadata
 * Masterschool offered A/B test user (test subject) onboarding data, activity data, and personal data for a hypothetical e-commerce platform named GloBox. The project introduction may be read [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
