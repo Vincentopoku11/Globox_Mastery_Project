@@ -1,6 +1,6 @@
 # vincent_opoku_portfolio
 
-# DA106 GloBox Mastery Project by Masterschool [link to zip file can be found here](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/e8b908322a0e1e65c71b2ef56ba9248b1c27d1bb/Globox%20%20Mastery%20Project%20.zip)
+# DA106 GloBox Mastery Project by Masterschool 
 
 
 ###### Created  on September 5th, 2023
