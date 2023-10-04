@@ -1,6 +1,6 @@
 # vincent_opoku_portfolio
 
-# DA106 GloBox Mastery Project by Masterschool 
+# GloBox Mastery Project by Masterschool 
 
 
 ###### Created  on September 5th, 2023
