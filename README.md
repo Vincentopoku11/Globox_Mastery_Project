@@ -20,5 +20,7 @@
 * [A/B Testing Report](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Report%20For%20Globox%20A_B%20Testing.pdf)
 * [Presentation Slides](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/_Gloxbox%20Banner%20A_B%20Testing%20slides..pdf)
 * On September 5th, 2023 (ahead of the project's final submission deadline of September 25th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account.
-  
 
+## Tools And Resources
+###PostgresSQL
+* I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset
