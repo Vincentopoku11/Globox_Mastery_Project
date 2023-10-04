@@ -17,4 +17,4 @@
 * Plan, organise, and perform an A/B test on a new banner highlighting GloBox's fictitious e-commerce platform's food and drink products.
 
 ## 2. Submission and  Feedback
- * [A/B testing report](Globox)
+ * [A/B testing report](https://github.com/coderedstorage/globox/blob/main/GloBox%20AB%20Testing%20Report%20-%20AK.pdf)
