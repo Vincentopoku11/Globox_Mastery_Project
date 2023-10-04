@@ -23,4 +23,4 @@
 
 ## Tools And Resources
 ### PostgresSQL
-* I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset
+* I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset.I also utilised Google Sheets for conducting statistical analyses and harnessed Tableau for crafting compelling data visualisations, ensuring comprehensive insights into the dataset.
