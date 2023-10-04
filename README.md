@@ -23,7 +23,7 @@
 
 ## Tools And Resources
 ### PostgresSQL, Google Sheets, Tableau
-* I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset.I also utilised Google Sheets for conducting statistical analyses and harnessed Tableau for crafting compelling data visualisations, ensuring comprehensive insights into the dataset.
+* I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset.I also utilised Google Sheets for conducting statistical analyses and harnessed Tableau for crafting compelling data visualisations, ensuring comprehensive insights into the dataset.When downloading, take note of the Google Sheets computation in xlsx (Excel).
 
 * [SQL script](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/SQL%20Extraction%20Code%20And%20Novelty%20Effect%20%20Script.pdf)
 * [Spreadsheet Calcuation](https://github.com/Vincentopoku11/vincent_opoku_portfolio/tree/main/Spreadsheet%20calculations)
