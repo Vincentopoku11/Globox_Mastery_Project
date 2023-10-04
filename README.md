@@ -1,5 +1,3 @@
-# vincent_opoku_portfolio
-
 # GloBox Mastery Project by Masterschool 
 
 
