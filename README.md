@@ -11,7 +11,7 @@
 # Background
 * The author is a Data Analytics candidate at [Masterschool](https://www.masterschool.com/) (March 2023 intake).
 * This is a mastery project, and it is the first of its kind for the author's cohort (of applicants).
-* The importance of a mastery project cannot be overstated. Masterschool graded project to demonstrate a candidate's job-readiness to prospective employers and for the applicant to graduate from the programme.
+* The importance of a mastery project cannot be overstated. Masterschool graded project to demonstrate a candidate's job readiness to prospective employers and for the applicant to graduate from the programme.
 
 ## 1. Project description
 * Plan, organise, and perform an A/B test on a new banner highlighting GloBox's fictitious e-commerce platform's food and drink products.
@@ -26,4 +26,5 @@
 * I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset.I also utilised Google Sheets for conducting statistical analyses and harnessed Tableau for crafting compelling data visualisations, ensuring comprehensive insights into the dataset.
 
 * [SQL script](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/SQL%20Extraction%20Code%20And%20Novelty%20Effect%20%20Script.pdf)
-
+* [Spreadsheet Calcuation](https://github.com/Vincentopoku11/vincent_opoku_portfolio/tree/main/Spreadsheet%20calculations)
+ 
