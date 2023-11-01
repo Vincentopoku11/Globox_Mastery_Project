@@ -27,3 +27,4 @@
 * [SQL script](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/SQL%20Extraction%20Code%20And%20Novelty%20Effect%20%20Script.pdf)
 * [Spreadsheet Calcuation](https://github.com/Vincentopoku11/vincent_opoku_portfolio/tree/main/Spreadsheet%20calculations)
 * [Globox Tableau Visualisation](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Globox%20Tableau%20Visual.twbx)
+* [Video Presentation On Loom](https://www.loom.com/share/cb55800c1a804f798dee27957bc385a1?sid=ceab4489-42b1-46a8-8476-3070778873c0)
