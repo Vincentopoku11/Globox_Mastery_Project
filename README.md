@@ -1,5 +1,4 @@
-# GloBox Mastery Project by Masterschool 
-
+# Globox E-commerce A/B Test  Analysis
 
 ###### Created  on September 5th, 2023
 # Metadata
