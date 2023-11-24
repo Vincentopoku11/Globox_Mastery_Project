@@ -17,7 +17,7 @@
 * [The submission pack](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Globox%20%20Mastery%20Project%20.zip)
 * [A/B Testing Report](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Report%20For%20Globox%20A_B%20Testing.pdf)
 * [Presentation Slides](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/_Gloxbox%20Banner%20A_B%20Testing%20slides..pdf)
-* On September 5th, 2023 (ahead of the project's final submission deadline of September 25th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account.
+* On September 5th, 2023 (ahead of the project's final submission deadline of September 25th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account graded with an A.
 
 ## Tools And Resources
 ### PostgresSQL, Google Sheets, Tableau
