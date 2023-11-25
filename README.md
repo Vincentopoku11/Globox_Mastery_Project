@@ -18,7 +18,7 @@
 * [A/B Testing Report](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Report%20For%20Globox%20A_B%20Testing.pdf)
 * [Presentation Slides](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/_Gloxbox%20Banner%20A_B%20Testing%20slides..pdf)
 * [Video Presentation ](https://www.loom.com/share/cb55800c1a804f798dee27957bc385a1?sid=ceab4489-42b1-46a8-8476-3070778873c0)
-* [Globox Tableau Visualisation](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/Globox%20Tableau%20Visual.twbx)
+* [Globox Tableau Visualisation](https://public.tableau.com/views/GloboxDashboardnew2/GloboxDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 * On September 5th, 2023 (ahead of the project's final submission deadline of September 25th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account graded with an A.
 
 ## Tools And Resources
