@@ -22,7 +22,6 @@
 * On September 5th, 2023 (ahead of the project's final submission deadline of September 25th, 2023), the author received immediate feedback for his initial contribution on his Masterschool Campus account graded with an A.
 
 ## Tools And Resources
-### PostgresSQL, Google Sheets, Tableau
 * I used PostgreSQL as my SQL tool of choice for data extraction and analysis, leveraging its tremendous features to discover and investigate the novelty effect within the dataset.I also utilised Google Sheets for conducting statistical analyses and harnessed Tableau for crafting compelling data visualisations, ensuring comprehensive insights into the dataset.When downloading, take note of the Google Sheets computation in xlsx (Excel).
 
 * [SQL script](https://github.com/Vincentopoku11/vincent_opoku_portfolio/blob/main/SQL%20Extraction%20Code%20And%20Novelty%20Effect%20%20Script.pdf)
